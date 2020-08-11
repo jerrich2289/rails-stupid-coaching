@@ -1,0 +1,2 @@
+module GuestionsHelper
+end
